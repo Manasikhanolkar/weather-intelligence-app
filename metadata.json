@@ -2,5 +2,7 @@
   "name": "Weather Intelligence App",
   "description": "Real-time weather insights, 7-day forecast trends, and rule-based planning recommendations powered by public Open-Meteo APIs.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
